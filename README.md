@@ -11,13 +11,11 @@ let dayPrice = 20;
 let totalSales;
 
 function setup() {
-    createCanvas(600, 400);
- 
-
-  background(150,50,50);
-  textSize(18);
-  preSales = 200;
-  daySales = window.prompt("How many tix did we sell today?");
+ createCanvas(600, 400);
+ background(150,50,50);
+ textSize(18);
+ preSales = 200;
+ //daySales = window.prompt("How many tix did we sell today?");
  // window.alert("Total tickets sold is "           );
 }
 

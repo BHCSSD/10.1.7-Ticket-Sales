@@ -2,7 +2,7 @@
 S&T
 
 
-```
+```javaScript
 let event = "Big Fish";
 let preSales;
 let daySales;
